@@ -22,6 +22,8 @@
         </activity>
         <activity android:name=".AssetsActivity">
         </activity>
+        <activity android:name=".URLActivity">
+        </activity>
     </application>
 
 </manifest>

@@ -17,5 +17,15 @@
         android:layout_height="wrap_content"
         android:text="@string/btn_asssets"
         android:id="@+id/btnAssets"
-         />
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_url"
+        android:id="@+id/btn_Url"
+
+        android:layout_below="@+id/btnAssets"
+        android:layout_alignLeft="@+id/btnAssets"
+        android:layout_marginTop="5dp"/>
 </RelativeLayout>

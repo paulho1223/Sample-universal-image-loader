@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Sample_UIL</string>
     <string name="btn_asssets">From Assets</string>
+    <string name="btn_url">From URL</string>
 </resources>
